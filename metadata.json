@@ -1,0 +1,7 @@
+{
+  "name": "Inventory CSSD Makarak",
+  "description": "ระบบจัดการสต๊อกสินค้าและพัสดุสำหรับ Inventory CSSD Makarak พร้อมระบบเบิก-รับเข้า สแกนคิวอาร์โค้ด รายงานวิเคราะห์ และเชื่อมต่อ Google Sheets",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
